@@ -1,0 +1,18 @@
+body {
+  background: #f7e8a6;
+}
+h1,
+p,
+footer {
+  text-align: center;
+}
+footer a {
+  color: green;
+  margin: 0 10px;
+}
+.picture-croissants-example {
+  display: block;
+  margin: 30px auto;
+  border-radius: 10px;
+  max-width: 100%;
+}
